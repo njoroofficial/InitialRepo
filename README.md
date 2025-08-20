@@ -8,3 +8,5 @@ Repo used as a walkthrough for basic GIT commands.
 4. Create a license for the repo
 
 ## This changes were made in the branch called sdfpt12
+
+## Creating a merge conflict and resolving it
